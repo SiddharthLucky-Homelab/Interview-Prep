@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
+              "title": "uber-system-design"
+            },
+            "group": "87b7b2b65dc6f356"
+          }
+        ]
+      },
+      {
+        "id": "004669f549c4512d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfd966f2edbf747",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.595936729657285,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of uber-system-design"
+            },
+            "group": "87b7b2b65dc6f356"
           }
         ]
       }
@@ -94,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for uber-system-design"
             }
           },
           {
@@ -113,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from uber-system-design"
             }
           },
           {
@@ -142,16 +187,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of uber-system-design"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,14 +217,32 @@
   },
   "active": "96b11eb6f5d88df3",
   "lastOpenFiles": [
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/cqrs.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/circuit-breaker.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/api-gateway.md",
+    "README.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/references/scalability-checklist.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/references/java-implementation-notes.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/references/cap-theorem.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/references",
+    "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/system-design",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/event-sourcing.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/saga-pattern.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/microservices-patterns.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns",
+    "BACKEND/JAVA/DESIGN PATTERNS/design-patterns-index.md",
+    "references/profile/tech-stack.md",
+    "references/profile",
+    "references",
+    "extracted.txt",
+    "New Text Document.txt",
+    "Ford - Lucky Sr SF Dev.pdf",
+    "BACKEND/JAVA/DESIGN PATTERNS",
+    "BACKEND/JAVA/New folder",
     "agents/GIT-HANDLER-AGENT/AGENTS.md",
-    "agents/GIT-HANDLER-AGENT",
-    "agents",
     "AGENTS.md",
     "git-instructions.md",
-    "README.md",
-    "Check",
-    "New folder",
     "Welcome.md"
   ]
 }
