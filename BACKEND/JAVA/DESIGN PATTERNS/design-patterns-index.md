@@ -18,6 +18,7 @@ Use this as the entry point for patterns and system-design scenarios. The Obsidi
 - [[cqrs]]
 - [[event-sourcing]]
 - [[api-gateway]]
+ - [[service-discovery]]
 
 ## System Design Scenarios
 - [[uber-system-design]] — services, data model, real-time tracking, pricing, payments.
@@ -26,6 +27,18 @@ Use this as the entry point for patterns and system-design scenarios. The Obsidi
 - [[cap-theorem]]
 - [[scalability-checklist]]
 - [[java-implementation-notes]]
+
+## Interview Checklists
+- [[api-gateway#Interview Checklist]]
+- [[circuit-breaker#Interview Checklist]]
+- [[cqrs#Interview Checklist]]
+- [[event-sourcing#Interview Checklist]]
+- [[saga-pattern#Interview Checklist]]
+- [[microservices-patterns#Interview Checklist]]
+- [[service-discovery#Interview Checklist]]
+
+## Lightning Review
+- [[design-patterns-lightning-review]] — one-pager of all checklists.
 
 Tip: Create or evolve any of the linked notes; the graph updates automatically.
 
