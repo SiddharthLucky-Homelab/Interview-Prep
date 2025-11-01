@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/design-patterns-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uber-system-design"
+              "title": "design-patterns-index"
             },
             "group": "87b7b2b65dc6f356"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
+                "file": "BACKEND/JAVA/DESIGN PATTERNS/design-patterns-index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.595936729657285,
-                  "close": false
+                  "scale": 1.016776003128555,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of uber-system-design"
+              "title": "Graph of design-patterns-index"
             },
             "group": "87b7b2b65dc6f356"
           }
@@ -217,15 +217,22 @@
   },
   "active": "96b11eb6f5d88df3",
   "lastOpenFiles": [
+    "references/anki/microservices-patterns.csv",
+    "references/anki",
+    "BACKEND/JAVA/DESIGN PATTERNS/design-patterns-lightning-review.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/api-gateway.md",
+    "BACKEND/JAVA/DESIGN PATTERNS/patterns/service-discovery.md",
+    "AGENTS.md",
+    "download-ripgrep8uAPGr/tmp-file",
+    "download-ripgrep8uAPGr",
+    "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
     "BACKEND/JAVA/DESIGN PATTERNS/patterns/cqrs.md",
     "BACKEND/JAVA/DESIGN PATTERNS/patterns/circuit-breaker.md",
-    "BACKEND/JAVA/DESIGN PATTERNS/patterns/api-gateway.md",
     "README.md",
     "BACKEND/JAVA/DESIGN PATTERNS/references/scalability-checklist.md",
     "BACKEND/JAVA/DESIGN PATTERNS/references/java-implementation-notes.md",
     "BACKEND/JAVA/DESIGN PATTERNS/references/cap-theorem.md",
     "BACKEND/JAVA/DESIGN PATTERNS/references",
-    "BACKEND/JAVA/DESIGN PATTERNS/system-design/uber-system-design.md",
     "BACKEND/JAVA/DESIGN PATTERNS/system-design",
     "BACKEND/JAVA/DESIGN PATTERNS/patterns/event-sourcing.md",
     "BACKEND/JAVA/DESIGN PATTERNS/patterns/saga-pattern.md",
@@ -237,11 +244,7 @@
     "references",
     "extracted.txt",
     "New Text Document.txt",
-    "Ford - Lucky Sr SF Dev.pdf",
-    "BACKEND/JAVA/DESIGN PATTERNS",
-    "BACKEND/JAVA/New folder",
     "agents/GIT-HANDLER-AGENT/AGENTS.md",
-    "AGENTS.md",
     "git-instructions.md",
     "Welcome.md"
   ]
