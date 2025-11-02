@@ -11,6 +11,7 @@ Use this as the entry point for patterns and system-design scenarios. The Obsidi
 ## Start Here
 - [[Tech Stack Profile]] — context on tools you use.
 - [[microservices-patterns]] — overview and when to apply which.
+- [[Senior Backend Architecture Hub]] — senior-level architecture, ops, and system design tracks.
 
 ## Core Patterns (Microservices)
 - [[saga-pattern]]
@@ -27,6 +28,8 @@ Use this as the entry point for patterns and system-design scenarios. The Obsidi
 - [[cap-theorem]]
 - [[scalability-checklist]]
 - [[java-implementation-notes]]
+- [[Java Version Updates]]
+- [[Platform Stack Index]]
 
 ## Interview Checklists
 - [[api-gateway#Interview Checklist]]
@@ -41,4 +44,3 @@ Use this as the entry point for patterns and system-design scenarios. The Obsidi
 - [[design-patterns-lightning-review]] — one-pager of all checklists.
 
 Tip: Create or evolve any of the linked notes; the graph updates automatically.
-
