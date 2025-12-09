@@ -19,7 +19,7 @@ Learning vault for interview preparation across backend architecture, system des
 - [[Java Version Updates]] — track LTS/feature releases and interview-ready highlights.
 
 ## Flashcards
-- Spaced repetition cards live in `REFERENCES/ANKI/microservices-patterns.csv`. Import into Anki, or append new Q/A pairs when you add material.
+- Spaced repetition cards live in `REFERENCES/ANKI/MICROSERVICES-PATTERNS.csv`. Import into Anki, or append new Q/A pairs when you add material.
 
 ## Conventions
 - One H1 per note, use wiki links `[[Note Title]]`, keep lines ≈100 chars, and follow kebab-case filenames.
