@@ -65,7 +65,7 @@ Capacity Math Sidebar (illustrative)
 High-Level Architecture
 
 ```mermaid
-flowchart LR
+flowchart TB
   subgraph Clients
     R["Rider App"]
     W["Web Client"]
@@ -103,7 +103,9 @@ flowchart LR
   W <-->|WebSocket| WS
   D <-->|WebSocket| WS
 
-  GW --> REQ --> MATCH --> TRIP
+  GW --> REQ
+  REQ --> MATCH
+  MATCH --> TRIP
   GW --> PRICE
   GW --> GEO
   TRIP --> PAY
@@ -132,16 +134,16 @@ Core Domains And Responsibilities
 
 APIs (Sketch)
 
-| API | Method | Path | Notes |
-| - | - | - | - |
-| Create Request | POST | `/v1/requests` | origin, dest, products, riderId |
-| Cancel Request | POST | `/v1/requests/{id}:cancel` | reason codes |
-| Quote | GET | `/v1/quotes?origin=..&dest=..` | upfront price, ETA |
-| Go Online | POST | `/v1/drivers/{id}:online` | lat, lon, cap, product |
-| Location Update | POST | `/v1/drivers/{id}/location` | batched, every 2-5 s |
-| Accept/Reject | POST | `/v1/offers/{id}:accept` | driver side |
-| Trip Events | POST | `/v1/trips/{id}/events` | start, pause, end |
-| Pay | POST | `/v1/trips/{id}:pay` | idempotency key required |
+| API             | Method | Path                           | Notes                           |
+| --------------- | ------ | ------------------------------ | ------------------------------- |
+| Create Request  | POST   | `/v1/requests`                 | origin, dest, products, riderId |
+| Cancel Request  | POST   | `/v1/requests/{id}:cancel`     | reason codes                    |
+| Quote           | GET    | `/v1/quotes?origin=..&dest=..` | upfront price, ETA              |
+| Go Online       | POST   | `/v1/drivers/{id}:online`      | lat, lon, cap, product          |
+| Location Update | POST   | `/v1/drivers/{id}/location`    | batched, every 2-5 s            |
+| Accept/Reject   | POST   | `/v1/offers/{id}:accept`       | driver side                     |
+| Trip Events     | POST   | `/v1/trips/{id}/events`        | start, pause, end               |
+| Pay             | POST   | `/v1/trips/{id}:pay`           | idempotency key required        |
 
 Data Model (ER)
 
