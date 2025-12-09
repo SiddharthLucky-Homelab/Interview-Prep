@@ -11,7 +11,6 @@ Learning vault for interview preparation across backend architecture, system des
 ## Getting Started
 - Open the vault in Obsidian to browse notes, graphs, and diagrams.
 - Use `rg -n "<keyword>"` from the repo root for fast search.
-- Reference `agents/GIT-HANDLER-AGENT/AGENTS.md` for collaboration workflow or git-specific guidance.
 
 ## Key Hubs
 - [[Java Design Patterns Hub]] — microservices patterns, checklists, and references.
