@@ -29,7 +29,4 @@
 - Small, scoped diffs; avoid incidental `.obsidian/` changes.
 - PRs: include purpose, linked issues, and screenshots if visual.
 
-## Agent Profiles (GIT-HANDLER-AGENT)
-- Git tasks are handled by `GIT-HANDLER-AGENT` (see `agents/GIT-HANDLER-AGENT/AGENTS.md`).
-- Call it by: mentioning the agent name in your prompt or working under `agents/GIT-HANDLER-AGENT/`.
-- Modify behavior by editing that agent’s `AGENTS.md`; deeper files override higher‑level rules.
+
